@@ -1,1 +1,5 @@
-hallo alle zusammen 
+<<<<<<< HEAD
+hallo hallo zusammen. 
+=======
+hallo hallo zusammen. 
+>>>>>>> merge
